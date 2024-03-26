@@ -1,0 +1,4 @@
+beautifulsoup4
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
